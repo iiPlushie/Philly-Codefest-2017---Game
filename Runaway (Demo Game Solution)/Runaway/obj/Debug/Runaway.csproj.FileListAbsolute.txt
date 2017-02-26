@@ -1,0 +1,28 @@
+c:\users\cheng\documents\visual studio 2015\Projects\Runaway\Runaway\bin\Debug\Runaway.exe.config
+c:\users\cheng\documents\visual studio 2015\Projects\Runaway\Runaway\bin\Debug\Runaway.exe
+c:\users\cheng\documents\visual studio 2015\Projects\Runaway\Runaway\bin\Debug\Runaway.pdb
+c:\users\cheng\documents\visual studio 2015\Projects\Runaway\Runaway\obj\Debug\Runaway.csprojResolveAssemblyReference.cache
+c:\users\cheng\documents\visual studio 2015\Projects\Runaway\Runaway\obj\Debug\Runaway.GameClient.resources
+c:\users\cheng\documents\visual studio 2015\Projects\Runaway\Runaway\obj\Debug\Runaway.Properties.Resources.resources
+c:\users\cheng\documents\visual studio 2015\Projects\Runaway\Runaway\obj\Debug\Runaway.csproj.GenerateResource.Cache
+c:\users\cheng\documents\visual studio 2015\Projects\Runaway\Runaway\obj\Debug\Runaway.exe
+c:\users\cheng\documents\visual studio 2015\Projects\Runaway\Runaway\obj\Debug\Runaway.pdb
+c:\users\cheng\documents\visual studio 2015\Projects\Runaway\Runaway\bin\Debug\Images\HauntedMansion.png
+c:\users\cheng\documents\visual studio 2015\Projects\Runaway\Runaway\bin\Debug\Images\PlayDemo.png
+c:\users\cheng\documents\visual studio 2015\Projects\Runaway\Runaway\bin\Debug\Images\Logo.png
+C:\Users\Cheng\documents\visual studio 2015\Projects\Runaway\Runaway\bin\Debug\Images\DialogBox.png
+C:\Users\Cheng\documents\visual studio 2015\Projects\Runaway\Runaway\bin\Debug\Images\S7.png
+C:\Users\Cheng\documents\visual studio 2015\Projects\Runaway\Runaway\bin\Debug\Images\S7Large.png
+C:\Users\Cheng\Documents\Visual Studio 2015\Projects\Runaway\Runaway\bin\Debug\Images\PhoneCharger.png
+C:\Users\Cheng\Documents\Visual Studio 2015\Projects\Runaway\Runaway\bin\Debug\Images\PhoneChargerLarge.png
+C:\Users\Cheng\Documents\Visual Studio 2015\Projects\Runaway\Runaway\bin\Debug\Images\LabRoom.png
+C:\Users\Cheng\Documents\Visual Studio 2015\Projects\Runaway\Runaway\bin\Debug\Images\Computer.png
+C:\Users\Cheng\Documents\Visual Studio 2015\Projects\Runaway\Runaway\bin\Debug\Images\ComputerLarge.png
+C:\Users\Cheng\Documents\Visual Studio 2015\Projects\Runaway\Runaway\bin\Debug\Images\ComputerScreen.png
+C:\Users\Cheng\Documents\Visual Studio 2015\Projects\Runaway\Runaway\bin\Debug\Images\Android.png
+C:\Users\Cheng\Documents\Visual Studio 2015\Projects\Runaway\Runaway\bin\Debug\Images\Lady.png
+C:\Users\Cheng\Documents\Visual Studio 2015\Projects\Runaway\Runaway\bin\Debug\Audio\Menu Theme.wav
+C:\Users\Cheng\Documents\Visual Studio 2015\Projects\Runaway\Runaway\bin\Debug\Audio\Lab Theme.wav
+C:\Users\Cheng\Documents\Visual Studio 2015\Projects\Runaway\Runaway\bin\Debug\Audio\Android Theme.wav
+C:\Users\Cheng\Documents\Visual Studio 2015\Projects\Runaway\Runaway\bin\Debug\Audio\Credits Theme.wav
+C:\Users\Cheng\Documents\Visual Studio 2015\Projects\Runaway\Runaway\bin\Debug\Images\Credits.png
